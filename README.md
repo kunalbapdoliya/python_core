@@ -1,2 +1,2 @@
-# python_core
+# python$core
 all python topics
