@@ -1,2 +1,1 @@
-# python-core
-all python topics
+# python-projects
